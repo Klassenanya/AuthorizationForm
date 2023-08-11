@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cy-spok": "^1.6.1",
+    "cypress": "9.5.0"
+  }
+}
