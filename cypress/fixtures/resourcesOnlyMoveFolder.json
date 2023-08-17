@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/MoveFolder",
+      "name": "MoveFolder",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-17T04:09:31.637967731Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    }
+  ],
+  "numDirs": 1,
+  "numFiles": 0,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "klassen",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-17T04:09:31.637967731Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

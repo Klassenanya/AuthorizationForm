@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "path": "/arnold",
+      "name": "arnold",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:15:12.039966123Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/branding",
+      "name": "branding",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T09:04:10.177775366Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/breslavets",
+      "name": "breslavets",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:00:05.070342744Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/kitova",
+      "name": "kitova",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:00:17.454429912Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/klassen",
+      "name": "klassen",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:00:31.27852666Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/kovalenko",
+      "name": "kovalenko",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:00:43.710613179Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/manoshkin",
+      "name": "manoshkin",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:00:54.574688412Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/melnichenko",
+      "name": "melnichenko",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:01:05.446763364Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/mohova",
+      "name": "mohova",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:01:20.166864319Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/popov",
+      "name": "popov",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-11T08:01:32.142946022Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    }
+  ],
+  "numDirs": 10,
+  "numFiles": 0,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "srv",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-11T08:46:27.566782578Z",
+  "mode": 2147484157,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

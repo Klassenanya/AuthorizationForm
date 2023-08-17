@@ -1,0 +1,38 @@
+{"items":[
+  {
+    "path":"/MoveFolder",
+    "name":"MoveFolder",
+    "size":4096,
+    "extension":"",
+    "modified":"2023-08-17T02:27:17.711123602Z",
+    "mode":2147484141,
+    "isDir":true,
+    "isSymlink":false,
+    "type":""
+  },
+  {
+    "path":"/klassen",
+    "name":"klassen",
+    "size":7,"extension":"",
+    "modified":"2023-08-16T16:21:04.313254115Z",
+    "mode":493,
+    "isDir":false,
+    "isSymlink":false,
+    "type":"text"
+  }
+],
+  "numDirs":1,
+  "numFiles":1,
+  "sorting":{
+    "by":"name",
+    "asc":false
+  },
+  "path":"/",
+  "name":"klassen",
+  "size":4096,"extension":"",
+  "modified":"2023-08-17T02:48:15.472254925Z",
+  "mode":2147484141,
+  "isDir":true,
+  "isSymlink":false,
+  "type":""
+}

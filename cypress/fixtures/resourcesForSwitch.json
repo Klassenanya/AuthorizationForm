@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/klassen",
+      "name": "klassen",
+      "size": 7,
+      "extension": "",
+      "modified": "2023-08-11T08:00:33.430541669Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 0,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "klassen",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-16T08:45:56.924978893Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/hello",
+      "name": "hello",
+      "size": 7,
+      "extension": "",
+      "modified": "2023-08-16T16:21:04.313254115Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 0,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "klassen",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-16T16:38:09.755752042Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}
