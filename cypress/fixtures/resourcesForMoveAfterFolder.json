@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/MoveFolder/klassen",
+      "name": "klassen",
+      "size": 7,
+      "extension": "",
+      "modified": "2023-08-16T16:21:04.313254115Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 0,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/MoveFolder/",
+  "name": "MoveFolder",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-17T03:18:49.807151274Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

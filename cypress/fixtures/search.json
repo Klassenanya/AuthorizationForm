@@ -1,0 +1,10 @@
+[
+  {
+    "dir": true,
+    "path": "klassen"
+  },
+  {
+    "dir": false,
+    "path": "klassen/klassen"
+  }
+]

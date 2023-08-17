@@ -1,0 +1,18 @@
+{
+  "items": [],
+  "numDirs": 10,
+  "numFiles": 0,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "srv",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-11T08:46:27.566782578Z",
+  "mode": 2147484157,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}

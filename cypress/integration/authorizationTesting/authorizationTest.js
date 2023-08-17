@@ -26,11 +26,9 @@ context('Заполнение и отправка формы на страниц
         cy.wait('@login').should (xhr => {
             expect(xhr.request.body).have.property('username', 'name')
             expect(xhr.request.body).have.property('password', 'pwd')
-
-            expect(xhr.response.body).to.contain('403 Forbidden')
         })
 
-//            cy.wait('@login').its('response.statusCode').should('equal', 403)
+        cy.get('@login').its('response.statusCode').should('equal', 403)
 
         cy.get('.wrong').should('have.text', 'Неверные данные')
     })
@@ -46,12 +44,20 @@ context('Заполнение и отправка формы на страниц
             expect(xhr.request.body).have.property('username', '')
             expect(xhr.request.body).have.property('password', '')
 
-            expect(xhr.response.body).to.contain('403 Forbidden')
         })
 
-//            cy.wait('@login').its('response.statusCode').should('equal', 403)
+        cy.get('@login').its('response.statusCode').should('equal', 403)
 
-            cy.get('.wrong').should('have.text', 'Неверные данные')
+        cy.get('.wrong').should('include.text', 'Неверные данные')
+    })
+
+
+    it('logout', () => {
+        cy.login('admin', 'admin')
+        cy.get('#logout').should('include.text', 'Logout')
+
+        cy.logout()
+        cy.get('h1').should('contain', 'File Browser')
     })
 
 })
