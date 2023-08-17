@@ -15,7 +15,6 @@ describe('Тестирование панели действий с файлом
     function waits() {
         cy.wait('@resources')
         cy.wait('@usage')
-
     }
 
 

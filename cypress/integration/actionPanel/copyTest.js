@@ -4,9 +4,7 @@ import spok from 'cy-spok'
 describe('Тестирование панели действий с файлом: копировать', function () {
 
     beforeEach(function () {
-        cy.intercept('GET', '**/resources/', {fixture: 'resourcesForSwitch.json'}).as('resources')
-        cy.intercept('GET', '**/usage/', {fixture: 'usage.json'}).as('usage')
-        cy.intercept('POST', '**/login').as('login')
+        mockRequests()
         cy.intercept('PATCH', '**/resources/**').as('copy')
         cy.loginUI('klassen', '1')
     })
